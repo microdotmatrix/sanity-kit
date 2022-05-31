@@ -9,12 +9,12 @@ export default {
         data: [
           {
             title: 'Sanity Repo',
-            value: 'https://github.com/bymattlee/bymattlee-sanity-starter-cms',
+            value: 'https://github.com/microdotmatrix/sanity-kit',
             category: 'Code'
           },
           {
             title: 'Website Repo',
-            value: 'https://github.com/bymattlee/bymattlee-web-starter-files',
+            value: 'https://github.com/microdotmatrix/11sane-kit',
             category: 'Code'
           }
         ]
